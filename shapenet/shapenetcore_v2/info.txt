@@ -1,0 +1,1 @@
+Download shapenet-shapenetcore_v2 datasets here from official website
